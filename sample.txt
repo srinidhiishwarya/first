@@ -1,2 +1,1 @@
-created my very first gitgub file sample
 i changed this as two line code
